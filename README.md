@@ -2,7 +2,7 @@
 #####
 - JDK 21 
 - Maven 3.9 
-- MySQL 8
+- MySQL 8.8.8
 
 # Technologies 
 - JAKARTA
